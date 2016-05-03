@@ -1,4 +1,4 @@
-FROM t0t0/docker-alpine-jre:8
+FROM t0t0/docker-alpine-jre:8.77.03
 MAINTAINER Tomas Vercautter & Toon Lamberigts
 
 ENV ELASTICSEARCH_VERSION 2.3.1
